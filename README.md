@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a nextjs authentication app which uses  metamask account address to login and allows only certains users to log in using the address...
 
 ## Getting Started
 
